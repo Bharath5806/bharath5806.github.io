@@ -74,6 +74,8 @@ git push -u origin main
 
 7. Click "Save."
 
+![IMG_20250415_200158](https://github.com/user-attachments/assets/6ba33f6f-2985-49a6-be68-b24fe4bc5995)
+
 ## Step 4: Access live website from the link GitHub gives.
 
 1. After saving in Step 2, GitHub will start building our site.
@@ -81,6 +83,8 @@ git push -u origin main
 2. Once the build is complete, we'll see a message with the live website link: "our site is live at  https://bharath5806.github.io/" 
 
 3. Click on this link to view our website.
+
+![IMG_20250415_200134](https://github.com/user-attachments/assets/5a459594-3dde-48a9-91fc-3f7cc5e0119e)
 
 ## Step 6: Try customizing with CSS.
 
@@ -110,5 +114,6 @@ p {
 
 5. Refresh our live website to see the updated styles.
 
+![IMG_20250415_200336](https://github.com/user-attachments/assets/362d26a3-f3df-486e-96e9-5c50f9ff50bc)
 
 
